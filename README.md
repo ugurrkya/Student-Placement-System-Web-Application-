@@ -11,6 +11,7 @@ The system will be used on a desktop application and website. To create a deskto
 - Javascript
 - AJAX
 - JQuery
+- MySQL
 # Functions
 - Authentication
 - Reporting
