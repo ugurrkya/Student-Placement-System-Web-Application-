@@ -1,1 +1,1 @@
-# Student Placemen System Web Application
+# Student Placement System Web Application
